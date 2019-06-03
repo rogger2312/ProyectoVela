@@ -1,0 +1,10 @@
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.csprojResolveAssemblyReference.cache
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.Form1.resources
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.Properties.Resources.resources
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.csproj.GenerateResource.cache
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.csproj.CoreCompileInputs.cache
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\bin\Debug\Vela.exe.config
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\bin\Debug\Vela.exe
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\bin\Debug\Vela.pdb
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.exe
+C:\Users\ROGGER AVALOS TAPIA\source\repos\Vela\Vela\obj\Debug\Vela.pdb
